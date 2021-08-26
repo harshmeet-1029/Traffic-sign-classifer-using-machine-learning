@@ -29,9 +29,11 @@ traffic sign model making.ipynb(For training modle)
 model testing.ipynb(for testing model using camera)
 
 ##PREREQUSTIS
+```
 pip3 install matplotlib
 pip3 install opencv-python
 pip3 install tenserflow
 pip3 insatll numpy
 pip3 install sklearn
 pip3 install pickle
+```
